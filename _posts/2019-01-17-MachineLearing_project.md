@@ -1,16 +1,18 @@
 ---
 layout:     post
-title:      My 
+title:      Job Analysis of BeiJing
 subtitle:   First
 date:       2019-01-14
 author:     ShuaiGao
 header-img: img/post-bg-ios10.jpg
-catalog: 	 true
+catalog:true
 tags:
     - Machine Learning
     - Scrapy
 	- Data Preprocessing
 ---
+
+
 # Data prepare
 
 
