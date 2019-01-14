@@ -7,7 +7,7 @@ description:"You need to know more."
 keyword:"Data Science, Python, Machine Learning"
 url:"http://UltramanShuai.github.io"          # your host, for absolute URL
 baseurl:""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo:"https://github.com/UltramanShuai/UltramanShuai.github.io # you code repository
+github_repo:"https://github.com/UltramanShuai/UltramanShuai.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
