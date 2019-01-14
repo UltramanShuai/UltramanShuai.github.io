@@ -2,7 +2,7 @@
 title: Shuai's Blog
 SEOTitle: Shuai Gao
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: leoshuaigao@gmail.com
 description: "Every failure is leading towards success."
 keyword: "Data Science, Python, Machine Learning"
 url: "http://UltramanShuai.github.io"          # your host, for absolute URL
@@ -98,17 +98,5 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+  
 ]
