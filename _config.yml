@@ -12,7 +12,7 @@ github_repo: "https://github.com/UltramanShuai/UltramanShuai.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "To be a better Leo!"
-sidebar-avatar: UltramanShuai.github.io/img/about-BY-gentle1.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://UltramanShuai.github.io/img/about-BY-gentle1.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -67,7 +67,7 @@ disqus_username: rpubs-d7c3612842775b8ab2057caff3e5e546
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
