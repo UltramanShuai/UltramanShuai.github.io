@@ -5,7 +5,7 @@ header-img:img/big_data.jpg
 email:leoshuaigao@gmail.com
 description:"You need to know more."
 keyword:"Data Science, Python, Machine Learning"
-url:"http://UltramanShuai.github.io"          # your host, for absolute URL
+url:"http://UltramanShuai.github.io.git"          # your host, for absolute URL
 baseurl:""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo:"https://github.com/UltramanShuai/UltramanShuai.github.io" # you code repository
 
