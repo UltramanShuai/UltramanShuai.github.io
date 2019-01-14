@@ -59,15 +59,6 @@ kramdown:
 # Disqus（https://disqus.com/）
 disqus_username: rpubs-d7c3612842775b8ab2057caff3e5e546
 
-# Gitalk
-gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: 34caa01bebd7e853d44c                            #生成的clientID
-  clientSecret: b0d349cbd0425d6b5b7b4f3315bdfc22b19bf4e9    #生成的clientSecret
-  repo: ultramanshuai.github.io    #仓库名称
-  owner: ultramanshuai    #github用户名
-  admin: ultramanshuai
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 
