@@ -3,7 +3,7 @@ title: Shuai's Blog
 SEOTitle: Shuai Gao
 header-img: img/post-bg-desk.jpg
 email: leoshuaigao@gmail.com
-description: "Every failure is leading towards success."
+description: "You need to know more."
 keyword: "Data Science, Python, Machine Learning"
 url: "http://UltramanShuai.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,7 +12,7 @@ github_repo: "https://github.com/UltramanShuai/UltramanShuai.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "To be a better Leo!"
-sidebar-avatar: /img/Leo-pic.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-BY-gentle.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
