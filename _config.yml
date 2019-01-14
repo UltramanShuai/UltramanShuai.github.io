@@ -57,11 +57,11 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: ShuaiGao
+disqus_username: rpubs-d7c3612842775b8ab2057caff3e5e546
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 34caa01bebd7e853d44c                            #生成的clientID
   clientSecret: b0d349cbd0425d6b5b7b4f3315bdfc22b19bf4e9    #生成的clientSecret
   repo: ultramanshuai.github.io    #仓库名称
@@ -89,8 +89,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "不知道",
-        href: "网址"
+        title: "Alex",
+        href: "https://github.com/pigfly"
     },{
        title: "不知道",
         href: "网址"
