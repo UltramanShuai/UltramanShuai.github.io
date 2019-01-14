@@ -1,11 +1,11 @@
 # Site settings
 title: Shuai Gao
-SEOTitle: Shuai Gao | Blog
+SEOTitle: ShuaiGao's Blog
 header-img: img/post-bg-desk.jpg
 email: leoshuaigao@gmail.com
 description: "You need to know more."
 keyword: "Data Science, Machine Learning, Analysis, Big Data"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "https://ultramanshuai.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/UltramanShuai/UltramanShuai.github.io.git" # you code repository
 
@@ -18,11 +18,11 @@ sidebar-avatar: UltramanShuai.github.io/img/about-BY-gentle.JPG      # use absol
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+# weibo_username:     好一朵美丽的土豆花
+zhihu_username:     Leo
+github_username:    UltramanShuai
+facebook_username:  Shuai Gao
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
