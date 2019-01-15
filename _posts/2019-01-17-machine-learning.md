@@ -57,6 +57,7 @@ The row data contains 8 attributes.
 - Describe: The additional information that may or may not help our analysis from the job posting. (String)
 
 - Type: The "tags" associated with the job or the position, eg. industry, sector etc. (String)
+
 ## Code of data Processing and modeling
 [ Code of data Processing and modeling](https://github.com/UltramanShuai/ML_Projiect/blob/master/machine_learning/Job_analysis.ipynb "## # Data pre-processing")
 
