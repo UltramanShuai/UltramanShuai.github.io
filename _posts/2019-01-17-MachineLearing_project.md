@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      First_try
-subtitle:   subhere
+title:      Welcome to my website
+subtitle:   Directionary of website
 date:       2019-01-15
 author:     ShuaiGao
 header-img: img/post-bg-ios9-web.jpg
 catalog: False
 tags:
-    - first
+    - Welcome
 ---
 
 # Hey there, welcome to my website!
