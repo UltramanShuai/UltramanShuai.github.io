@@ -4,7 +4,7 @@ title:      DATA VISUALIZATION
 subtitle:   Gender diversity analysis of Australia labour force 
 date:       2019-01-16
 author:     ShuaiGao
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-e2e-ux.jpg
 catalog: False
 tags:
   - Shinny app
