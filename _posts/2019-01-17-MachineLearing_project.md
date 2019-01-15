@@ -10,8 +10,18 @@ tags:
     - first
 ---
 
-# Hello World
+# Hey there, welcome to my website!
 
-## Hello Leo
+##### Follow this directory to expolore my very first website.
 
-## Hello Shuai Gao
+Hey there, I am Leo and I am very excited to present to you the very first website I've ever done!
+
+The fact of having my very own website is really fun, and the process of constructing it was even more fun. As a aspiring data scientist, I think it's crucial to have a place to show my works along the journey and I want to have a place that I can record my progress. I am also working on a discussion board on the website so I can communicate with anyone who are interested in my work.
+
+Anyway, for now, if you click on the right top tag "something about me", you can find my bio. The works and projects I've done so far are also in the bio, under the Project sector. You are welcome to click on the project subjects which will direct you to the specifics of my work, including codes and results.
+
+I am at the mean time working on some more features for the website. The process of exploring more about the coding and data world excites me a lot, if you are having the same interests as I do, or want to discuss certain topics, please don't hesitate to contact me. You can find my LinkedIn, Facebook and GitHub pages by click on the tabs at the very bottom of the page and connect with me, I fully appreciated your opinions.
+
+If you are a recruitor or industry insider, I live in Melbourne now and would love to discuss any opportunities and would love to attend any workshops that encounters.
+
+Now go have fun exploring my website! Don't forget that if you have anything, I mean ANYTHING, please don't hesitate to let me know!
