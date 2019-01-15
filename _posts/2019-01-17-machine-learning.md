@@ -4,7 +4,7 @@ title:      Machine Learning
 subtitle:   Analysis of recruitment information in Beijing
 date:       2019-01-17
 author:     ShuaiGao
-header-img: img/big_data.jpg
+header-img: img/post-bg-YesOrNo.jpg
 catalog: False
 tags:
     - Random Forest
@@ -67,8 +67,8 @@ and relatively low salary sector (lower than 1 thousand per month).
 
 By using cloud word picture, the results are quite straightforward.
 #### Work type words picture by different salary group job
-![](https://github.com/UltramanShuai/ML_Projiect/blob/master/machine_learning/Type_high.png)
-![](https://github.com/UltramanShuai/ML_Projiect/blob/master/machine_learning/Type_low.png)
+![1.jpg](https://github.com/UltramanShuai/ML_Projiect/blob/master/machine_learning/Type_high.png)
+![2.jpg](https://github.com/UltramanShuai/ML_Projiect/blob/master/machine_learning/Type_low.png)
 
 Based on the pictures, we can clearly see the difference between the jobs with high salary and low salary.
 
@@ -79,8 +79,8 @@ Most of the jobs are seen in relatively low salary picture are assistant, recept
 It seems the salary are still depended on the education level, which we will check later.
 
 #### Work description's words picture by different salary group job
-![](https://github.com/UltramanShuai/ML_Projiect/blob/master/machine_learning/Describe_high.png)
-![](https://github.com/UltramanShuai/ML_Projiect/blob/master/machine_learning/Describe_low.png)
+![3.jpg](https://github.com/UltramanShuai/ML_Projiect/blob/master/machine_learning/Describe_high.png)
+![4.jpg](https://github.com/UltramanShuai/ML_Projiect/blob/master/machine_learning/Describe_low.png)
 
 The differences of the two salary groups can be easily seen from these word clouds.
 
@@ -91,8 +91,8 @@ For the group of salary lower than 10 thousand per month: paid annual leave, per
 Most importantly, for high salary groups, the descriptions, or the welfare listed in the job posting are the real extra benefits. On the other hand, most of the welfare shows in low salary groups are not only vague, but also are what actually is statutory mandatory benefits where most of the highly paid jobs contains these benefits but didn't specify in the job postings.
 
 #### Work requirement's words picture by different salary group job
-![](https://github.com/UltramanShuai/ML_Projiect/blob/master/machine_learning/Require_high.png)
-![](https://github.com/UltramanShuai/ML_Projiect/blob/master/machine_learning/Require_low.png)
+![5.jpg](https://github.com/UltramanShuai/ML_Projiect/blob/master/machine_learning/Require_high.png)
+![6.jpg](https://github.com/UltramanShuai/ML_Projiect/blob/master/machine_learning/Require_low.png)
 
 For the high salary group: work experience of 2-10 years and bachelor degree takes almost all the picture.
 
