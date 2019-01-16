@@ -5,7 +5,7 @@ subtitle:   Analysis of recruitment information in Beijing
 date:       2019-01-17
 author:     ShuaiGao
 header-img: img/post-bg-YesOrNo.jpg
-catalog: False
+catalog: True
 tags:
     - Random Forest
     - Machine Learning
